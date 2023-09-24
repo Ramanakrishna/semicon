@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    box-sizing: inherit;
+}
+h1{
+    margin-top:0px;
+    color:cornflowerblue;
+    
+    
+}
+
+.bg{
+    background-color: #4CAF50;
+    border-color: #abe9e98f;
+    margin: 50px auto 0 auto; 
+    color: rgb(219, 111, 22);
+}
+body{
+    background-image: url('Semiconductor.webp');
+}
+marquee{
+    margin-top: 50px;
+    color: rgb(134, 162, 187);
+    font-size: 100px;
+}
+p{
+    color: #E8D5C4;
+    font-size: large;
+}
